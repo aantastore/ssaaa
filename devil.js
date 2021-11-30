@@ -93,7 +93,7 @@ let setting = JSON.parse(fs.readFileSync('./setting.json'))
 owner = setting.owner
 gamewaktu = setting.gamewaktu
 petik = '```'
-//fake = 'CREATOR BOT\©devil Botz'
+//fake = 'CREATOR BOT\©Xynta Botz'
 ban =[]
 
 // Database
@@ -1146,9 +1146,9 @@ Vcc Visa1$ : 9Dls (90K)
 •DAN JASA LAINNYA
 
 TESTI? : ADA NGAB
-wa.me/6281214221314
+wa.me/6281262411188
 
-GRUB LINK:https://chat.whatsapp.com/KVl92z5iAHu2zgUejWL85O
+GRUB LINK:https://chat.whatsapp.com/Isn0fPZ3UJ9LfPBIpVvMxp
 `
 
                buttons = [{buttonId: `${prefix}menu`,buttonText:{displayText: '⬅️BACK TO MENU'},type:1},{buttonId: `${prefix}payment`,buttonText:{displayText: 'PAYMENT'},type:1},{buttonId: `${prefix}owner`,buttonText:{displayText: 'OWNER'},type:1}]
@@ -1192,16 +1192,16 @@ GRUB LINK:https://chat.whatsapp.com/KVl92z5iAHu2zgUejWL85O
                devil.relayWAMessage(prep)
                break
       case 'gopay':
-             reply(`GOPAY : KEBLOKIR🗿\n\n A/N KEBLOKIR`)
+             reply(`GOPAY : 081262411188\n\n A/N antastore`)
              break  
       case 'pulsa':
-             reply(`PULSA : 089635613088\n\n KARTU TRI\n\nPULSA 2 :081214221314\n\n KARTU TEKOMSEL`)
+             reply(`PULSA : 081262411188\n\n KARTU Telkomsel\n\nPULSA 2 :081262411188\n\n KARTU TEKOMSEL`)
              break
       case 'dana':
-            reply(`DANA : 081214221314\n\n A/N TANYA OWN`)
+            reply(`DANA : 081262411188\n\n A/N TANYA OWN`)
              break   
       case 'ovo':
-             reply(`OVO : 089635613088\n\n A/N TANYA OWN`)
+             reply(`OVO : 081262411188\n\n A/N TANYA OWN`)
              break 
         case 'limitgame': 
         case 'balance': 
