@@ -48,7 +48,7 @@ const timeWib = moment.tz('Asia/Jakarta').format('DD/MM')
 devilgamteng = '𝐕𝐀𝐍𝐙𝐙𝐁𝐎𝐓𝐙☕︎'
 fake = '𝐕𝐀𝐍𝐙𝐙𝐁𝐎𝐓𝐙☕︎'
 //Ganti No Owner Ok
-const Tag = "6281214221314"		
+const Tag = "6281262411188"		
 												
 // stickwm
 const Exif = require('./lib/exif');
